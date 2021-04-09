@@ -1,0 +1,14 @@
+# Blender MTL File: 'TitleModel.blend'
+# Material Count: 1
+
+newmtl 图层_0
+Ns 6.062869
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\happy\\Desktop\\model\\Title\\TexTitle.psd
+map_d C:\\Users\\happy\\Desktop\\model\\Title\\TexTitle.psd
